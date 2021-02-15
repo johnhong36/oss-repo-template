@@ -17,6 +17,7 @@ The goal of my project is to allow users to easily compare nba players. With the
 Project - Venue  
 Number of Contributors - 16  
 Lines of Code - 562,692  
+Number of Branches - 54  
 First Commit -    
 - Name: tdurkin18  
 - Date: October 1, 2019  
