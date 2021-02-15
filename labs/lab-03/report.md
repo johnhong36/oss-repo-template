@@ -70,3 +70,19 @@ Branches:
 - windows_support
 - #230
 - #259
+
+
+
+
+Project - used_car_playground    
+Number of Contributors - 6    
+Lines of Code - 1,251,051    
+First Commit -    
+- Date: Dec 4, 2020  
+- Message: “Update map.r”  
+
+Last Commit - 
+- Date: Nov 13, 2020  
+- Message: “11/15 update”  
+
+All branches: master, LOGO&backGround, selenium, song_xu_patch_1, bokehapp, data_analysis_on_maps  
