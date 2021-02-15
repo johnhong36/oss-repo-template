@@ -34,3 +34,39 @@ The lines of code and the number of contributors are different. Gitstats states 
 ![gource](gsource.png)  
 
 
+
+Project - YACS  
+Number of Contributors - 18    
+Lines of Code - 44,600    
+First Commit -    
+- Name: jshom    
+- Date: Feb 25, 2020  
+- Message: “Initial commit”  
+
+Last Commit - 
+- Name: marchdan    
+- Date: Feb 3, 2021  
+- Message: “Update spring 2021 csv”    
+
+Branches:
+- 52-scheduling
+- 280-loadPageSpinner
+- 338-mobile-ui-revised
+- add_vuex
+- admin_panel_ui
+- coursePage-recommendation
+- create-pull-request/patch
+- csv-fix
+- dark-mode
+- fixTimeSpring2021CSV
+- page_for_department
+- s21
+- seo
+- showDatabaseError
+- shruti_yacs
+- spring_2021_update
+- subject_fail_reload
+- summer2020-demo
+- windows_support
+- #230
+- #259
