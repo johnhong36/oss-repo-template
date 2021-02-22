@@ -19,3 +19,10 @@ Reference - https://source.android.com/setup/start/licenses
 https://github.com/niclee500/AutomatedShopBot  
 
 # 6
+| Website                 | License Present | License |
+| ----------- | ----------- |-------|
+| https://github.com/anchor-site/anchor    | Yes       | MIT |
+| https://github.com/nick-lennox/beirrun  | Yes        | MIT |
+| https://github.com/rmarathay/hedgehogs | Yes | MIT |
+| https://github.com/andywu9/coinhub | Yes | MIT |
+| https://github.com/synodic-software/Soul-Engine | Yes | GNU General Public License v3.0|
