@@ -14,19 +14,19 @@ https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step2/CM
 
 ### Step 3  
 ![img3](images/q3.png)  
-https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step1/CMakeLists.txt  
-https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step1/CMakeLists.txt    
+https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step3/CMakeLists.txt  
+https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step3/CMakeLists.txt    
 
 
 ### Step 4  
 ![img4](images/q4.png)  
-https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step1/CMakeLists.txt  
-https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step1/CMakeLists.txt    
+https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step4/CMakeLists.txt  
+https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step4/CMakeLists.txt    
 
 ### Step 5  
 ![img5](images/q5.png)  
-https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step1/CMakeLists.txt  
-https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step1/CMakeLists.txt    
+https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step5/CMakeLists.txt  
+https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-05/step5/CMakeLists.txt    
 
 ## Part 2  
 
