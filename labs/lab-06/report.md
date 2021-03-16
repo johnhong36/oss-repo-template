@@ -77,8 +77,82 @@ Link to code:
 
 ## Part 2   
 
-## Part 3     
+Reuslt:  
+```
+Loaded words_dat.txt containing 5757 five-letter English words.
+Two words are connected if they differ in one letter.
+Graph has 2174 nodes with 8040 edges
+129 connected components
+Shortest path between cold and warm is
+cold
+wold
+word
+ward
+warm
+Shortest path between love and hate is
+love
+hove
+have
+hate
+Shortest path between good and evil is
+None
+Shortest path between pear and beef is
+pear
+bear
+beer
+beef
+Shortest path between make and take is
+make
+take
+```
 
+Link to code:
+
+## Part 3  
+
+```
+Loaded words_dat.txt containing 5757 five-letter English words.
+Two words are connected if they differ in one letter.
+Graph has 5757 nodes with 112278 edges
+16 connected components
+Shortest path between chaos and order is
+chaos
+hoars
+arose
+adore
+order
+Shortest path between nodes and graph is
+nodes
+anode
+agone
+anger
+gaper
+graph
+Shortest path between moron and smart is
+moron
+manor
+roams
+smart
+Shortest path between flies and swims is
+flies
+isles
+semis
+swims
+Shortest path between mango and peach is
+mango
+conga
+nacho
+poach
+peach
+Shortest path between pound and marks is
+pound
+mound
+monad
+damns
+drams
+marks
+```
+Link to code
 
 
 
