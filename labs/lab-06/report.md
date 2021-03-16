@@ -73,7 +73,7 @@ None
 
 ```
 Link to code:
-
+https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-06/q1.py  
 
 ## Part 2   
 
@@ -107,6 +107,7 @@ take
 ```
 
 Link to code:
+https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-06/q2.py   
 
 ## Part 3  
 
@@ -152,7 +153,8 @@ damns
 drams
 marks
 ```
-Link to code
+Link to code:  
+https://github.com/johnhong36/oss-repo-template/blob/master/labs/lab-06/plot_words.py  
 
 
 
